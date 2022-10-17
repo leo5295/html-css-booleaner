@@ -28,11 +28,41 @@
 
 }
 
+.tim-images{
+    width: 90%;
+}
+
 .highlighted-text{
     background-color: yellow;
 }
 
+.list{
+    margin: 20px 0px 20px 0px;
+}
 
 table{
     width: 100%;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+tbody{
+    background-color: aqua;
+}
+
+.ph{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container-footer{
+    position: relative;
+}
+
+.adv-info{
+    color: white;
+    position: absolute;
+    margin-top: 1%;
 }
