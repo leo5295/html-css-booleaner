@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.pattern{
+    width: 100%;
+    height: 100%;
+    background: lightskyblue;
+}
+
+.logo{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+}
+
+.the-boleaner{
+    color: cornflowerblue;
+
+}
+
+.highlighted-text{
+    background-color: yellow;
+}
+
+
+table{
+    width: 100%;
+}
